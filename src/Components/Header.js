@@ -52,7 +52,7 @@ const Header = () => {
               className={classes.title}
               onClick={() => navigate("/")}
               variant="h6">
-              Crypto Hunter
+              Xcripto
             </Typography>
 
             <Select

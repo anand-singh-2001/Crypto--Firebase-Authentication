@@ -38,7 +38,7 @@ const Banner = () => {
               marginBottom: 15,
               fontFamily: "Montserrat",
             }}>
-            Crypto Hunter
+            Xcripto
           </Typography>
           <Typography
             variant="subtitle1"
